@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "70904d05-e025-42e3-aa89-6691542a9534",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25047695",
+		"_collection_link": "https://grey-spaceship-724769.postman.co/workspace/16th-Dec-Node.js-Task~b6080471-7a1d-4d12-a5f6-04195824d12a/collection/25047695-70904d05-e025-42e3-aa89-6691542a9534?action=share&creator=25047695&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Current Time Stamp",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:7000",
+					"host": [
+						"localhost"
+					],
+					"port": "7000"
+				}
+			},
+			"response": []
+		}
+	]
+}
